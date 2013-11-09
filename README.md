@@ -1,0 +1,4 @@
+3T
+==
+
+TicTacToe KI
