@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# The executable
+3T
+
+# Backup / swap files.
+*~
+*.swp
+
